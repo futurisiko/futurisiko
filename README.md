@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @futurisiko 👋
+- Always_passionate.py computer_science,art,technology
+- I create IT systems && A/V installations for multiple clients
+- I'm into cybersec too, originally by myself, now more officially
+- OSCP certified; hunting_for_other_challenges.sh
+- Spare time? make music && exploit machines --where 'HTB'
