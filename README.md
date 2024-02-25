@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @futurisiko 👋
 - Always_passionate.py computer_science,art,technology
-- I create IT systems && A/V installations for multiple clients
+- IT systems && A/V installations 
 - I'm into cybersec too, originally by myself, now more officially
 - OSCP; hunting_for_other_challenges.sh
